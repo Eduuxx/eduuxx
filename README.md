@@ -9,7 +9,7 @@
     as a <b>Software Developer.</b> <img src="https://github.com/Eduuxx/eduuxx/blob/main/Assets/typing.gif" width="30px"><br> I like to <b>code and video games,</b>&nbsp;<img src="https://github.com/Eduuxx/eduuxx/blob/main/Assets/gaming.gif" width="36px">  my favorite coding language and game is <b>JavaScript n World of Warcraft</b>.
     My idea is to <b>improve</b> on developing things and creating new <b>scripts</b> to 
     <b>improve</b> myself <img src="https://github.com/Eduuxx/eduuxx/blob/main/Assets/skyrocket.gif" width="18px">. I like to learn new languages aswell 
-    the most language I enjoy coding on is obsly<b>JavaScript.</b> <img src="https://github.com/Eduuxx/eduuxx/blob/main/Assets/end.gif" width="20px">
+    the most language I enjoy coding on is obsly <b>JavaScript.</b> <img src="https://github.com/Eduuxx/eduuxx/blob/main/Assets/end.gif" width="20px">
   </em>  
 </p>
 
